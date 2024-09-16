@@ -1,0 +1,2 @@
+- why was [[The Janitor]] fired as professor?
+- why the hell is [[The Janitor]] still working there?!?
