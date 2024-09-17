@@ -1,2 +1,3 @@
-- why was [[The Janitor]] fired as professor?
-- why the hell is [[The Janitor]] still working there?!?
+- What are the drugs that [[Milo]] took? Where did they come from
+- what happened to [[Hugo]]'s parents?
+- why was [[The Janitor]] fired as professor and why the hell is he still working there?!?
