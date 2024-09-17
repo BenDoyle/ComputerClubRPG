@@ -28,6 +28,7 @@ skill:Will: 0
 - His stress led him to abuse drugs which led to nightmarish visions which caused him to dropout and find answers, including at the [[Occult Bookstore]]
 - Currently works at the [[Wooly]]
 - Has been talking to [[The Janitor]] about his drug experiences
+- Lives near Manitoba and Wood
 
 ### Aspects
 

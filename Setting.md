@@ -1,3 +1,4 @@
+- Playing [FATE Core](https://fate-srd.com/fate-core)
 - Takes place in Guelph ON, 199x
 - Medium scale, focused on the happenings around town
 - some supernatural 
