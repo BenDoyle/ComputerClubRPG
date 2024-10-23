@@ -36,4 +36,3 @@
 	- patron runs
 	- police chase (they have non-standard guns)
 	- he was on the same drugs as Milo
-- 

@@ -50,6 +50,8 @@ I can see them... sometimes
 
 **Huh. Deja-vu**. Use **Notice** in place of another skill during a challenge, you may use **Notice** twice in the same challenge
 
+## Consequences
+- "Milo can't be around customers" (Mild / -2)
 ### Notes
 
 - connections with the [[Occult Bookstore]]
