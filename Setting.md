@@ -24,7 +24,7 @@
 - Beckers 'N Gas, Country Style
 
 ## Faces
-- [[The Janitor]] at [[University]]
+- [[Lawrence Davis]] at [[University]]
 - President of the community shared agriculture
 - [[Occult Bookstore Owner]]
 
