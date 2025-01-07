@@ -23,7 +23,7 @@ skill:Stealth: 1
 skill:Will: 2
 ---
 
-### Bio 
+### Bio
 Vet student at the university of Guelph
 
 
@@ -34,7 +34,7 @@ High Concept:
 Bill is dedicated to  becoming a skilled veterinarian, juggling acadepmic life, part time work, and a deep love for animals.
 
 
-Trouble: 
+Trouble:
 "Sleepless and Stressed"
 Between long study hours, part-time jobs, and clinical rotations Bill often finds himself overworked and emotionally stretched.
 
@@ -44,7 +44,7 @@ Additional Aspects:
 3. Tied to the Farm
 
 
-### Stunts  
+### Stunts
 Because I have medical training, I gain +2 to Lore when diagnosisng illenss to animals
 
 Because I have a calming presence, I gain +2 to rapport when dealing with frightened animals or anxious people
@@ -54,11 +54,14 @@ Once per session, i can create an advantage by improvising medical tools in the 
 
 ### Notes
 
-Personal Goals: To pass his veterinary exams, excel in clinical rotations, and eventually run his own clinic.
-Personality: Driven, compassionate, and slightly frazzled. Bill puts others first but struggles with asking for help.
-Connections:
-Professors and mentors at the University of Guelph.
-A childhood friend or family member who helps him stay grounded.
-A quirky roommate or study partner who brings comic relief.
+- Met the other players at the [[Wooly]]. He had taken third eye recently, and saw a demon face. The rest party talked him down.
+- Lives in the South residences
+
+- Personal Goals: To pass his veterinary exams, excel in clinical rotations, and eventually run his own clinic.
+- Personality: Driven, compassionate, and slightly frazzled. Bill puts others first but struggles with asking for help.
+- Connections
+  - Professors and mentors at the University of Guelph.
+  - A childhood friend or family member who helps him stay grounded.
+  - A quirky roommate or study partner who brings comic relief.
 
 
