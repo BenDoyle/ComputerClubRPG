@@ -4,9 +4,9 @@ tags:
 player name: Chris Saunders
 full name: Milo Barker
 skill:Athletics: 1
-skill:Burglary: 1
+skill:Burglary: 3
 skill:Contacts: 2
-skill:Crafts: 3
+skill:Crafts: 1
 skill:Deceive: 2
 skill:Drive: 0
 skill:Empathy: 1
@@ -19,7 +19,7 @@ skill:Provoke: 2
 skill:Rapport: 0
 skill:Resources: 2
 skill:Shoot: 0
-skill:Stealth: 0
+skill:Stealth: 1
 skill:Will: 0
 ---
 ### Bio 
@@ -51,7 +51,7 @@ I can see them... sometimes
 **Huh. Deja-vu**. Use **Notice** in place of another skill during a challenge, you may use **Notice** twice in the same challenge
 
 ## Consequences
-- "Milo can't be around customers" (Mild / -2)
+
 ### Notes
 
 - connections with the [[Occult Bookstore]]
