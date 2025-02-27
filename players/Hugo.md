@@ -10,7 +10,7 @@ skill:Crafts: 0
 skill:Deceive: 2
 skill:Drive: 1
 skill:Empathy: 1
-skill:Fight: 0
+skill:Fight: 3
 skill:Investigate: 4
 skill:Lore: 2
 skill:Notice: 0
@@ -19,8 +19,8 @@ skill:Provoke: 2
 skill:Rapport: 1
 skill:Resources: 3
 skill:Shoot: 0
-skill:Stealth: 1
-skill:Will: 3
+skill:Stealth: 2
+skill:Will: 0
 ---
 
 ### Bio 
