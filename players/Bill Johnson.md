@@ -13,7 +13,7 @@ skill:Empathy: 4
 skill:Fight: 0
 skill:Investigate: 0
 skill:Lore: 3
-skill:Notice: 3
+skill:Notice: 4
 skill:Physique: 1
 skill:Provoke: 2
 skill:Rapport: 1
@@ -26,37 +26,32 @@ skill:Will: 2
 ### Bio
 Vet student at the university of Guelph
 
-
 ### Aspects
 
 High Concept:
 - "Determine Vet Student at the Univerisity Of Guelph"
 Bill is dedicated to  becoming a skilled veterinarian, juggling acadepmic life, part time work, and a deep love for animals.
 
-
 Trouble:
-"Sleepless and Stressed"
-Between long study hours, part-time jobs, and clinical rotations Bill often finds himself overworked and emotionally stretched.
+"In Too Deep" Bill is getting wrapped up in supernatural encounters.
 
 Additional Aspects:
 1. Animal Whisperer
 2. Always prepared for Emergencies
-3. Tied to the Farm
+3. Urban Survivalist (If Bill has adapted to city life and learned to make do in different environments)
 
 
 ### Stunts
-Because I have medical training, I gain +2 to Lore when diagnosisng illenss to animals
+Emergency Field Surgery –  Bill can attempt emergency medical treatment (using Lore) without proper tools, negating difficulty penalties.
 
 Because I have a calming presence, I gain +2 to rapport when dealing with frightened animals or anxious people
 
 Once per session, i can create an advantage by improvising medical tools in the field using everyday items.
 
-
 ### Notes
 
 - Met the other players at the [[Wooly]]. He had taken third eye recently, and saw a demon face. The rest party talked him down.
 - Lives in the South residences
-
 - Personal Goals: To pass his veterinary exams, excel in clinical rotations, and eventually run his own clinic.
 - Personality: Driven, compassionate, and slightly frazzled. Bill puts others first but struggles with asking for help.
 - Connections
