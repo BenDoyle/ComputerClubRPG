@@ -26,7 +26,7 @@
 ## Faces
 - [[Larry]] at [[University]]
 - President of the community shared agriculture
-- [[Occult Bookstore Owner]]
+- [[Janice]]
 
 ## Protagonists
 - [[Hugo]]
