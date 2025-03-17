@@ -24,7 +24,7 @@
 - Beckers 'N Gas, Country Style
 
 ## Faces
-- [[Lawrence Davis]] at [[University]]
+- [[Larry]] at [[University]]
 - President of the community shared agriculture
 - [[Occult Bookstore Owner]]
 

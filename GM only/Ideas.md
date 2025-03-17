@@ -20,7 +20,7 @@
 	- when faced with an impulsive or quick solution, will take it (aint got time to think)
 ## Notes
 
-- [[Lawrence Davis]] and the bookstore owner know each other, and don't like each others approach (weird science vs occult)
+- [[Larry]] and the bookstore owner know each other, and don't like each others approach (weird science vs occult)
 - The bookshop owner has a loose network of occultists
 - Hugo's parents were working with the government (paranormal affairs?), and were assassinated by a cult
 - there is a PA agent watching Hugo

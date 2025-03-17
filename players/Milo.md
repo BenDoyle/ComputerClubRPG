@@ -27,7 +27,7 @@ skill:Will: 0
 - Was a student studying engineering at the [[University]]
 - His stress led him to abuse drugs which led to nightmarish visions which caused him to dropout and find answers, including at the [[Occult Bookstore]]
 - Currently works at the [[Wooly]]
-- Has been talking to [[Lawrence Davis]] about his drug experiences
+- Has been talking to [[Larry]] about his drug experiences
 - Lives near Manitoba and Wood
 
 ### Aspects
@@ -38,7 +38,7 @@ skill:Will: 0
 
 Aspects Sucker For a Sob Story
 
-[[Lawrence Davis]] knows something (evolve into the plot he's connected with)
+[[Larry]] knows something (evolve into the plot he's connected with)
 
 I can see them... sometimes
 
@@ -51,7 +51,11 @@ I can see them... sometimes
 **Huh. Deja-vu**. Use **Notice** in place of another skill during a challenge, you may use **Notice** twice in the same challenge
 
 ## Consequences
+<<<<<<< Updated upstream
 
+=======
+- 
+>>>>>>> Stashed changes
 ### Notes
 
 - connections with the [[Occult Bookstore]]

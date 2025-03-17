@@ -1,3 +1,3 @@
 - What are the drugs that [[Milo]] took? Where did they come from
 - what happened to [[Hugo]]'s parents?
-- why was [[Lawrence Davis]] fired as professor and why the hell is he still working there?!?
+- why was [[Larry]] fired as professor and why the hell is he still working there?!?
