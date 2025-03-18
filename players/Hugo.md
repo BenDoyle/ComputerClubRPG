@@ -25,7 +25,7 @@ skill:Will: 0
 
 ### Bio 
 
-- Lives on his own?
+- Lives on his own
 - Moved to Guelph with parents, who dies in a mysterious crash
 - Studying accounting at the [[University]]
 

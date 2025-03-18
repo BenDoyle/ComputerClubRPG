@@ -36,7 +36,7 @@ skill:Will: 0
 
 **I ain't got time to think**
 
-Aspects Sucker For a Sob Story
+Sucker For a Sob Story
 
 [[Larry]] knows something (evolve into the plot he's connected with)
 
@@ -51,11 +51,6 @@ I can see them... sometimes
 **Huh. Deja-vu**. Use **Notice** in place of another skill during a challenge, you may use **Notice** twice in the same challenge
 
 ## Consequences
-<<<<<<< Updated upstream
-
-=======
-- 
->>>>>>> Stashed changes
 ### Notes
 
 - connections with the [[Occult Bookstore]]

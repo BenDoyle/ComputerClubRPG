@@ -1,4 +1,4 @@
 - Third Eye is a drug going around Guelph
 - It seems to be mildly euphoric / hallucinogenic
 - Occasionally is causes consistent visions of shadowy creatures
-- It has done this to Milo, even after his original trip was over
+- It has done this to [[Milo]], even after his original trip was over

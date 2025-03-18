@@ -29,8 +29,8 @@ Vet student at the university of Guelph
 ### Aspects
 
 High Concept:
-- "Determine Vet Student at the Univerisity Of Guelph"
-Bill is dedicated to  becoming a skilled veterinarian, juggling acadepmic life, part time work, and a deep love for animals.
+- "Determine Vet Student at the University Of Guelph"
+Bill is dedicated to  becoming a skilled veterinarian, juggling academic life, part time work, and a deep love for animals.
 
 Trouble:
 "In Too Deep" Bill is getting wrapped up in supernatural encounters.
