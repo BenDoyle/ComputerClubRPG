@@ -16,4 +16,4 @@ skill:Resources: 2
 **I know someone who might know**
 
 ## Notes
-- Imagine [Helena Bonham Carter](https://i.pinimg.com/originals/45/25/8e/45258e9a7dc16b93f73cdbab66020eae.jpg)
+- Imagine [Janeane Garafalo](https://www.imdb.com/name/nm0000413/mediaviewer/rm2670767104/?ref_=nm_ov_ph)
